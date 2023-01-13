@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonyz89&label=Profile%20views&color=0e75b6&style=flat" alt="antonyz89" /> </p>
 
-- 🌱 I’m currently learning **Flutter/Dart** and **VueJS**
+- 🌱 I’m currently learning **NodeJS**, **VueJS** and tests with **Jest/Vitest**
 
 - 📫 How to reach me **antonyz.dev@gmail.com**
 

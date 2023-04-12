@@ -47,3 +47,13 @@
   <img align="center" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=antonyz89&" alt="antonyz89" />
   <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyz89&show_icons=true&locale=en&layout=compact" alt="antonyz89" />
 </p>
+
+<h1> Currently working </h1>
+
+In my free time I'm working on my Open Source project, **Overlay4Streamers**.
+
+An open-source software tool designed to help streamers create customizable overlays for their live streams. Click [here](https://github.com/antonyz89/Overlay4Streamers) or on the image to check it out!
+
+[![Overlay4Streamers](https://raw.githubusercontent.com/antonyz89/Overlay4Streamers/main/docs/assets/images/dashboard.png)](https://github.com/antonyz89/Overlay4Streamers)
+
+

@@ -37,15 +37,24 @@
 
 <p align="center">
   <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=antonyz89&show_icons=true&locale=en" alt="antonyz89" />
-  <img align="center" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=antonyz89&" alt="antonyz89" />
   <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyz89&show_icons=true&locale=en&layout=compact" alt="antonyz89" />
 </p>
 
-<h1> Currently working </h1>
+## 🚀 Currently Working On  
 
-In my free time I'm working on my project: **Overlay4Streamers**.
+In my free time, I'm building **[FlyCash](https://flyca.sh/)** – a smart **personal finance management tool** designed to help people organize their expenses effortlessly.  
 
-A tool designed to help streamers create customizable overlays for their live streams.
+💰 **Key Features:**  
+- ✅ **Track and categorize expenses** with groups and subcategories  
+- 🔔 **Receive email reminders** for upcoming or overdue payments  
+- 📊 **Get a clear financial overview** with status indicators for each expense  
+- 🔄 **Manage recurring expenses** with advanced customization options  
+- ⚡ **Fast and intuitive interface**, accessible from any device  
 
-Beta soon..
+### 🎉 **The beta is live!**  
+Start organizing your finances today and take control of your money.  
 
+🔗 **Try it now:** [FlyCash](https://flyca.sh/)  
+
+[![FlyCash Banner](https://flyca.sh/__og-image__/static/og.jpeg)
+](https://flyca.sh)
